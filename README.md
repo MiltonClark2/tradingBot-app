@@ -46,7 +46,7 @@ trading-bot/
 ## 🏁 Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/trading-bot.git
+git clone https://github.com/MiltonClark2/tradingBot-app.git
 cd trading-bot
 npm install
 node main.js
